@@ -1,11 +1,12 @@
 import React from 'react';
 import navLogo from '../../assets/logo.png'
+import { NavLink } from 'react-router';
 const Footer = () => {
     const link = <>
-        <li className='m-2 hover:cursor-pointer list-none'>Home</li>
-        <li className='m-2 hover:cursor-pointer list-none'>My-Bookings</li>
-        <li className='m-2 hover:cursor-pointer list-none'>Blogs</li>
-        <li className='m-2 hover:cursor-pointer list-none'>Contact Us</li>
+        <NavLink to='/'><li className='m-2 hover:cursor-pointer list-none'>Home</li></NavLink>
+        <NavLink to='/mybooking'><li className='m-2 hover:cursor-pointer list-none'>My-Bookings</li></NavLink>
+        <NavLink to='/blogs'><li className='m-2 hover:cursor-pointer list-none'>Blogs</li></NavLink>
+        <NavLink to='/contactus'><li className='m-2 hover:cursor-pointer list-none'>Contact Us</li></NavLink>
     </>
     return (
         <footer className="footer footer-horizontal footer-center bg-base-200 text-base-content rounded p-10">

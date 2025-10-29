@@ -1,11 +1,12 @@
 import React from 'react';
 import navLogo from '../../assets/logo.png'
+import { NavLink } from 'react-router';
 const Navbar = () => {
     const link = <>
-        <li className='m-2 hover:cursor-pointer'>Home</li>
-        <li className='m-2 hover:cursor-pointer'>My-Bookings</li>
-        <li className='m-2 hover:cursor-pointer'>Blogs</li>
-        <li className='m-2 hover:cursor-pointer'>Contact Us</li>
+        <NavLink to='/'><li className='m-2 hover:cursor-pointer'>Home</li></NavLink>
+        <NavLink to='/mybooking'><li className='m-2 hover:cursor-pointer'>My-Bookings</li></NavLink>
+        <NavLink to='/blogs'><li className='m-2 hover:cursor-pointer'>Blogs</li></NavLink>
+        <NavLink to='/contactus'><li className='m-2 hover:cursor-pointer'>Contact Us</li></NavLink>
     </>
     return (
         <div className="navbar bg-base-100 shadow-sm">

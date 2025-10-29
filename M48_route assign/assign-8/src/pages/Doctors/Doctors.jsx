@@ -18,8 +18,8 @@ const Doctors = ({ data }) => {
     return (
         <div>
 
-            <div className='items-center justify-center text-center mt-5'>
-                <h2 className='font-bold text-2xl'>Our Best Doctors</h2>
+            <div className='items-center justify-center text-center mt-9'>
+                <h2 className='font-bold text-4xl'>Our Best Doctors</h2>
                 <p>Our platform connects you with verified, experienced doctors across various specialties — all at your convenience. Whether it's a routine checkup or urgent consultation, book appointments in minutes and receive quality care you can trust.</p>
             </div>
 

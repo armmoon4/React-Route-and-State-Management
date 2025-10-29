@@ -13,7 +13,7 @@
             "Thursday",
             "Friday"
         ],
-        "consultationFee": "$150",
+        "consultationFee": "150",
         "workingAt": "City General Hospital"
     },
     {
@@ -30,7 +30,7 @@
             "Thursday",
             "Saturday"
         ],
-        "consultationFee": "$180",
+        "consultationFee": "180",
         "workingAt": "NeuroCare Clinic"
     },
     {
@@ -47,7 +47,7 @@
             "Thursday",
             "Friday"
         ],
-        "consultationFee": "$120",
+        "consultationFee": "120",
         "workingAt": "Kids Health Center"
     },
     {
@@ -64,7 +64,7 @@
             "Thursday",
             "Saturday"
         ],
-        "consultationFee": "$140",
+        "consultationFee": "140",
         "workingAt": "Skin Wellness Institute"
     },
     {
@@ -81,7 +81,7 @@
             "Thursday",
             "Friday"
         ],
-        "consultationFee": "$200",
+        "consultationFee": "200",
         "workingAt": "Ortho Joint Hospital"
     },
     {
@@ -98,7 +98,7 @@
             "Thursday",
             "Saturday"
         ],
-        "consultationFee": "$160",
+        "consultationFee": "160",
         "workingAt": "Mental Health Hub"
     },
     {
@@ -115,7 +115,7 @@
             "Thursday",
             "Friday"
         ],
-        "consultationFee": "$130",
+        "consultationFee": "130",
         "workingAt": "Eye Care Specialists"
     },
     {
@@ -132,7 +132,7 @@
             "Thursday",
             "Saturday"
         ],
-        "consultationFee": "$170",
+        "consultationFee": "170",
         "workingAt": "Women's Health Center"
     },
     {
@@ -149,7 +149,7 @@
             "Thursday",
             "Friday"
         ],
-        "consultationFee": "$110",
+        "consultationFee": "110",
         "workingAt": "Ear Nose Throat Clinic"
     },
     {
@@ -166,7 +166,7 @@
             "Thursday",
             "Saturday"
         ],
-        "consultationFee": "$155",
+        "consultationFee": "155",
         "workingAt": "Lung Care Hospital"
     },
     {
@@ -183,7 +183,7 @@
             "Thursday",
             "Friday"
         ],
-        "consultationFee": "$190",
+        "consultationFee": "190",
         "workingAt": "Digestive Health Institute"
     },
     {
@@ -200,7 +200,7 @@
             "Thursday",
             "Saturday"
         ],
-        "consultationFee": "$175",
+        "consultationFee": "175",
         "workingAt": "Urology Specialists"
     }
 ]
